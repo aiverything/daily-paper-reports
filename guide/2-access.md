@@ -8,7 +8,7 @@
 
 | 용도 | 경로 |
 |---|---|
-| 새 논문 목록 | export.arxiv.org/api/query (cat:eess.AS, cat:cs.SD, cat:cs.CL을 제출일 내림차순으로 조회). 열 수 없으면 웹 검색 |
+| 새 논문 목록 | export.arxiv.org/api/query (cat:eess.AS, cat:cs.SD, cat:cs.CL을 제출일 내림차순으로 조회. cs.CL은 speech, spoken, audio 같은 낱말로 좁힐 것). 열 수 없으면 웹 검색 |
 | 제목, 저자, 제출일, 학회 채택 여부 | arxiv.org/abs/ID (학회 채택은 Comments 항목) |
 | 본문 | arxiv.org/html/ID, arxiv.org/pdf/ID |
 | 학회 논문집 | Interspeech: isca-archive.org. ICLR, NeurIPS, ICML: openreview.net, proceedings.mlr.press, proceedings.neurips.cc |
