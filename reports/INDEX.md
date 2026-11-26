@@ -14,3 +14,9 @@
 | 2026-11-26 | SpeechLLM | 답변 거부 평가 | Can Speech LLMs Recognize When Audio Evidence Is Insufficient? A Diagnostic Study and a Pre-Generation Probing Mitigation | 2611.29393 |
 | 2026-11-26 | Speech Foundation Model | 표현 분석 | What Do Multilingual Self-Supervised Speech Encoders Know About Sentence Meaning? | 2611.17686 |
 | 2026-11-26 | Speech Foundation Model | 음성 코덱 | UMelCodec: An Ultra-Low-Bitrate and Lightweight Mel-Domain Neural Speech Codec | 2611.25569 |
+| 2026-11-27 | ASR | 방송 자막 인식 | CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television | 2611.31055 |
+| 2026-11-27 | ASR | 저자원 언어 평가 | PazaBench: Large-Scale ASR Benchmark for Low-Resource Languages in Africa | 2611.31578 |
+| 2026-11-27 | SpeechLLM | 음성 에이전트 평가 | μ-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents | 2611.34920 |
+| 2026-11-27 | SpeechLLM | 발음 제어 | SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States | 2611.30927 |
+| 2026-11-27 | Speech Foundation Model | 음성 토크나이저 | BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models | 2611.30723 |
+| 2026-11-27 | Speech Foundation Model | 음성 구간 검출 | ClusterVAD: Threshold-Free Unsupervised Voice Activity Detection with Pre-Trained Neural Representations | 2611.33059 |
